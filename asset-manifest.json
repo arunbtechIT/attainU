@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/attainU/static/css/main.0759bf52.chunk.css",
-    "main.js": "/attainU/static/js/main.cd637b85.chunk.js",
-    "main.js.map": "/attainU/static/js/main.cd637b85.chunk.js.map",
+    "main.js": "/attainU/static/js/main.eb0da117.chunk.js",
+    "main.js.map": "/attainU/static/js/main.eb0da117.chunk.js.map",
     "runtime-main.js": "/attainU/static/js/runtime-main.f740f473.js",
     "runtime-main.js.map": "/attainU/static/js/runtime-main.f740f473.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/attainU/static/css/2.4c97ca4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.752f56ec.chunk.js",
     "static/css/main.0759bf52.chunk.css",
-    "static/js/main.cd637b85.chunk.js"
+    "static/js/main.eb0da117.chunk.js"
   ]
 }
